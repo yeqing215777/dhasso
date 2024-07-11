@@ -1,3 +1,5 @@
+![](https://www.dha.ac.cn/public/images/logo.png)
+
 # 统一认证用例实例
 
 ## 说明
